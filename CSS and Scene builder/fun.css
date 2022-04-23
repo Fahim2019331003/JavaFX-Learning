@@ -1,0 +1,15 @@
+.root{
+    -fx-background-color: "pink";
+}
+
+.label{
+    -fx-font-size: 20;
+    -fx-font-family: "Segoe Script";
+    -fx-text-fill: "red";
+}
+
+#titleLabel
+{
+    -fx-font-size: 50;
+}
+
